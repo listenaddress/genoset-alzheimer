@@ -6,7 +6,7 @@
 </tr>
 <tr>
 <td>Description</td>
-<td>Determines if a genome has an increased risk of Alzheimer's disease as per <a href="http://www.snpedia.com/index.php/Gs293">gs293</a>. If preventative action is taken to address the iron imbalance, it might be possible to reduce the risk of developing Alzheimer's disease for those with this genoset.</td>
+<td>Determines if a genome has an increased risk of Alzheimer's disease as per <a href="http://www.snpedia.com/index.php/Gs293">gs293</a>.</td>
 </tr>
 <tr>
 <td>Node Version</td>
