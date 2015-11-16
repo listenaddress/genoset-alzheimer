@@ -1,0 +1,37 @@
+{
+   "name":"genoset-293",
+   "description":"Determines if a genome has an increased risk of Alzheimer's disease. (GS293)",
+   "version":"0.0.3",
+   "homepage":"http://github.com/thomasbeta/genoset-293",
+   "repository":"git://github.com/thomasbeta/genoset-293.git",
+   "author":"Thomas O'Brien <tbobrien612@gmail.com> (https://github.com/thomasbeta)",
+   "main":"./index.js",
+   "keywords": ["genome", "genoset", "gs293", "dna", "genetics", "genes", "alzheimer's", "disease", "iron", "diet"],
+   "dependencies":{
+      "gql":"*"
+   },
+   "devDependencies":{
+      "mocha":"*",
+      "should":"*",
+      "JSONStream":"*",
+      "event-stream":"*"
+   },
+   "scripts":{
+      "test":"mocha"
+   },
+   "engines":{
+      "node":">= 0.4.0"
+   },
+   "licenses":[
+      {
+         "type":"MIT",
+         "url":"http://github.com/thomasbeta/genoset-293/raw/master/LICENSE"
+      }
+   ],
+     "maintainers": [
+    {
+      "name": "Thomas O'Brien",
+      "email": "tbobrien612@gmail.com"
+    }
+  ]
+}
